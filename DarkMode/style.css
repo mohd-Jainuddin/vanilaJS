@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+
+.bigBox{
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+
+body{
+    text-align: center;
+}
+
+.btn{
+    margin-bottom: 20px;
+    padding: 10px;
+}
