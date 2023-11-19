@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.box{
+    width: 90%;
+    padding: 17px;
+}
+
+.input{
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 20px;
+    padding: 15px;
+    outline: none;
+    font-size: larger;
+}
